@@ -4,12 +4,9 @@
 
 - 💪 I like to write code
 - ⚡ I try to learn new things
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React
 
 ### Connect with me:
-
-[<img align="left" alt="SerhiiKhizhniakov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SerhiiKhizhniakov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -22,7 +19,3 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/serhii-khizhniakov-dev/
-[instagram]: https://www.instagram.com/khizhniakov.serhii/
